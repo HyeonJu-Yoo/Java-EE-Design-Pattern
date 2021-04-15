@@ -1,0 +1,25 @@
+Spring
+
+Hibernate
+
+EJB(Enterprise JavaBeans)
+
+JPA(Java Persistence API) : POJO(Plain Old Java Object) 모델 기반
+
+REST : 표준 코어 런타임
+
+Spring vs. Java EE
+
+- JAVA SE환경(JAVA Standard Edition)
+- JAVA EE환경
+
+디자인패턴(Design Pattern) : 객체와 클래스를 전달하는 방법. 객체 생성 및 객체 간 상호작용 문제 해결.
+
+GoF 디자인 패턴 : 소프트웨어 공학 문제를 해결함.
+- 패턴 구분 주요 3가지 축 : 생성(creational), 구조(structural), 행위(behavioral)
+  * 생성 패턴 : 객체 생성, 초기화, 클래스 선택에 관한 패턴(ex. 싱글톤, 팩토리)
+  * 행동 패턴 : 객체 간 소통, 메시징, 상호작용에 관한 패턴(ex. 옵저버)
+  * 구조 패턴 : 클래스와 객체 관계를 조직하는 패턴, 관련된 객체를 서로 묶어 원하는 로직을 구현함.(ex. 장식자)
+  
+Applet(애플릿) : HTML/CSS만으로 불가능한 일을 웹 사이트에서 가능하게 함.
+
